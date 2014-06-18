@@ -22,7 +22,6 @@ alias gco="git checkout"
 # ruby
 alias bi='bundle install'
 alias b='bundle exec'
-alias rk='zb rake'
 
 
 source ~/.git-completion.bash
